@@ -49,7 +49,4 @@ tolower		| | | ft_get_parent_path
 Notes:
 
 - Most of the the files and function names are namespaced with an **ft** in front. It stands for Fourty Two
-- The project instructions require that we put all the source files in the root directory but for the sake of this Github repo, I separate them into sub folders.
-- I update this list almost every month with new personal functions. If you don't know what a function does, refer to the [Wiki][3], where I document all my personal functions.
-
-My code is not the best, but it passed all the 42 tests successfully.
+- My code is not the best, but it passed all the 42 tests successfully.
