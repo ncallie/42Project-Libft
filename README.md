@@ -1,10 +1,6 @@
 # 42Projects-Libft
 My implementation of some of the Standard C Library functions including some additional ones.
 
-### TOC
-* [What is libft?](#what-is-libft)
-* [What's in it?](#whats-in-it)
-
 ### What is libft?
 [Libft][1] is an individual project at [42][2] that requires us to re-create some standard C library functions including some additional ones that can be used later to build a library of useful functions for the rest of the program.
 
